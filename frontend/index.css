@@ -71,6 +71,23 @@
   * {
     @apply border-border;
   }
+  .w-full {
+    width: 60%;
+}
+.bg {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    /* height: 100%; */
+    content: url('/frontend/assets/placeholders/Moai_Statues_bg_03.jpg');
+    width: 100%;
+    opacity: 0.6;
+    padding: 0;
+    margin: 0;
+    z-index: -1;
+    position: absolute;
+}
   body {
     @apply bg-background text-foreground;
   }

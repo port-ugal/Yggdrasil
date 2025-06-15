@@ -1,6 +1,25 @@
-import Placeholder1 from "@/assets/placeholders/bear-1.png";
-import Placeholder2 from "@/assets/placeholders/bear-2.png";
-import Placeholder3 from "@/assets/placeholders/bear-3.png";
+import Placeholder1 from "@/assets/placeholders/Doodle Yggdrasil 01.jpg";
+import Placeholder2 from "@/assets/placeholders/Doodle Yggdrasil 02.jpg";
+import Placeholder3 from "@/assets/placeholders/Doodle Yggdrasil 03.jpg";
+import Placeholder4 from "@/assets/placeholders/Doodle Yggdrasil 04.jpg";
+import Placeholder5 from "@/assets/placeholders/Doodle Yggdrasil 05.jpg";
+import Placeholder6 from "@/assets/placeholders/Doodle Yggdrasil 06.jpg";
+import Placeholder7 from "@/assets/placeholders/Doodle Yggdrasil 07.jpg";
+import Placeholder8 from "@/assets/placeholders/Doodle Yggdrasil 08.jpg";
+import Placeholder9 from "@/assets/placeholders/Doodle Yggdrasil 09.jpg";
+import Placeholder10 from "@/assets/placeholders/Doodle Yggdrasil 10.jpg";
+import Placeholder11 from "@/assets/placeholders/Doodle Yggdrasil 11.jpg";
+import Placeholder12 from "@/assets/placeholders/Doodle Yggdrasil 12.jpg";
+import Placeholder13 from "@/assets/placeholders/Doodle Yggdrasil 13.jpg";
+import Placeholder14 from "@/assets/placeholders/Doodle Yggdrasil 14.jpg";
+import Placeholder15 from "@/assets/placeholders/Doodle Yggdrasil 15.jpg";
+import Placeholder16 from "@/assets/placeholders/Doodle Yggdrasil 16.jpg";
+import Placeholder17 from "@/assets/placeholders/Doodle Yggdrasil 17.jpg";
+import Placeholder18 from "@/assets/placeholders/Doodle Yggdrasil 18.jpg";
+import Placeholder19 from "@/assets/placeholders/Doodle Yggdrasil 19.jpg";
+import Placeholder20 from "@/assets/placeholders/Doodle Yggdrasil 20.jpg";
+
+
 import { COLLECTION_ADDRESS } from "./constants";
 
 export const config: Config = {
@@ -14,18 +33,18 @@ export const config: Config = {
   },
 
   defaultCollection: {
-    name: "Lorem Ipsum",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue convallis augue in pharetra.",
+    name: "Doodle Yggdrasil",
+    description: "Unleash your imagination and bring Yggdrasil to life with a doodle that combines elements of mythology and modern art in a truly original way.",
     image: Placeholder1,
   },
 
   ourStory: {
-    title: "Our Story",
+    title: "Doodle Yggdrasil",
     subTitle: "Proin lorem",
     description:
-      "Phasellus pellentesque malesuada pretium. Vestibulum sed justo at velit rhoncus finibus nec quis urna. Aenean rutrum congue tincidunt. Praesent id urna quis risus sodales feugiat vitae quis orci. Proin tincidunt eu nisi quis sollicitudin. Nulla facilisis eget tellus quis fermentum. Nunc vel neque at erat dictum tempus. Aliquam in mollis lacus, non fringilla lacus. Nunc blandit iaculis ante vitae pulvinar.",
+      "Unleash your imagination and bring Yggdrasil to life with a doodle that combines elements of mythology and modern art in a truly original way.",
     discordLink: "https://discord.com",
-    images: [Placeholder1, Placeholder2, Placeholder3],
+    images: [Placeholder1, Placeholder2, Placeholder3, Placeholder4, Placeholder5, Placeholder6, Placeholder7, Placeholder8, Placeholder9, Placeholder10, Placeholder11, Placeholder12, Placeholder13, Placeholder14, Placeholder15, Placeholder16, Placeholder17, Placeholder18, Placeholder19, Placeholder20],
   },
 
   ourTeam: {
@@ -39,19 +58,9 @@ export const config: Config = {
           twitter: "https://twitter.com",
         },
       },
-      {
-        name: "Zucker",
-        role: "Sunt Duis",
-        img: Placeholder2,
-      },
-      {
-        name: "SimonT",
-        role: "Ullamco Tempor",
-        img: Placeholder3,
-        socials: {
-          twitter: "https://twitter.com",
-        },
-      },
+
+
+      
     ],
   },
 
@@ -60,24 +69,15 @@ export const config: Config = {
 
     questions: [
       {
-        title: "Id Quis Mollit Est",
+        title: "Doodle Yggdrasil",
         description:
-          "Exercitation tempor id ex aute duis laboris dolore est elit fugiat consequat exercitation ullamco. Labore sint laborum anim sunt labore commodo proident adipisicing minim eu duis velit. Est ipsum nisi labore ullamco velit laborum qui in. Fugiat cillum tempor proident occaecat do ipsum Lorem eu labore duis do ex anim. Ullamco incididunt irure officia ex reprehenderit. Voluptate tempor reprehenderit elit exercitation consequat labore ipsum duis reprehenderit. Ex qui aliqua ex aute sunt.",
+          "#Airdrop Yggdrasil Unleash your imagination and bring Yggdrasil to life with a doodle that combines elements of mythology and modern art in a truly original way.",
       },
-      {
-        title: "Magna Nostrud Eu Nostrud Occaecat",
-        description:
-          "Et aute duis culpa anim sint pariatur ipsum et irure aliquip eu velit. Aliquip Lorem nostrud adipisicing deserunt sit ut aliqua enim amet velit fugiat cillum quis ut. Tempor consequat adipisicing laborum ut ipsum ut elit ad amet qui Lorem ea commodo culpa. Commodo adipisicing sit sint aute deserunt. Proident enim proident labore. Aliquip minim aliqua proident mollit fugiat ipsum qui duis deserunt ea duis. Deserunt anim incididunt irure commodo sint adipisicing magna dolor excepteur.",
-      },
-      {
-        title: "In Amet Mollit Tempor Dolor Consequat Commodo",
-        description:
-          "Fugiat fugiat dolor id aute labore esse incididunt. Reprehenderit nostrud ad elit enim occaecat. Sunt non ex veniam officia dolore deserunt consequat. Excepteur voluptate cillum fugiat reprehenderit consequat eu eu amet dolor enim tempor.",
-      },
+    
     ],
   },
 
-  nftBanner: [Placeholder1, Placeholder2, Placeholder3],
+  nftBanner: [Placeholder1, Placeholder2, Placeholder3, Placeholder4, Placeholder5, Placeholder6, Placeholder7, Placeholder8, Placeholder9, Placeholder10, Placeholder11, Placeholder12, Placeholder13, Placeholder14, Placeholder15, Placeholder16, Placeholder17, Placeholder18, Placeholder19, Placeholder20],
 };
 
 export interface Config {

@@ -1,6 +1,6 @@
 ## Aptos Build Mint Page Template Doodle Yggdrasil
 https://yggdrasil-weld.vercel.app/
-Unleash your imagination and bring Yggdrasil to life with a doodle that combines elements of mythology and modern art in a truly original way.
+
 #Airdrop Yggdrasil Unleash your imagination and bring Yggdrasil to life with a doodle that combines elements of mythology and modern art in a truly original way.
 <div align="center">
   <a href="https://yggdrasil-weld.vercel.app/">

@@ -1,7 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
+.w-full {
+    width: 60%;
+}
 @layer base {
   :root {
     --background: 0 0% 100%;
@@ -71,9 +73,7 @@
   * {
     @apply border-border;
   }
-  .w-full {
-    width: 60%;
-}
+  
 .bg {
     background-position: center center;
     background-repeat: no-repeat;

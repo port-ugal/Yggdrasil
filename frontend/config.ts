@@ -51,14 +51,165 @@ export const config: Config = {
     title: "Our Team",
     members: [
       {
-        name: "Mepoti",
+        name: "Doodle Yggdrasil",
         role: "Aliquip Esse",
         img: Placeholder1,
         socials: {
           twitter: "https://twitter.com",
         },
       },
-
+  {
+        name: "Doodle Yggdrasil",
+        role: "Aliquip Esse",
+        img: Placeholder2,
+        socials: {
+          twitter: "https://twitter.com",
+        },
+      },
+        {
+        name: "Doodle Yggdrasil",
+        role: "Aliquip Esse",
+        img: Placeholder3,
+        socials: {
+          twitter: "https://twitter.com",
+        },
+      },
+        {
+        name: "Doodle Yggdrasil",
+        role: "Aliquip Esse",
+        img: Placeholder4,
+        socials: {
+          twitter: "https://twitter.com",
+        },
+      },
+        {
+        name: "Doodle Yggdrasil",
+        role: "Aliquip Esse",
+        img: Placeholder5,
+        socials: {
+          twitter: "https://twitter.com",
+        },
+      },
+        {
+        name: "Doodle Yggdrasil",
+        role: "Aliquip Esse",
+        img: Placeholder6,
+        socials: {
+          twitter: "https://twitter.com",
+        },
+      },
+        {
+        name: "Doodle Yggdrasil",
+        role: "Aliquip Esse",
+        img: Placeholder7,
+        socials: {
+          twitter: "https://twitter.com",
+        },
+      },
+        {
+        name: "Doodle Yggdrasil",
+        role: "Aliquip Esse",
+        img: Placeholder8,
+        socials: {
+          twitter: "https://twitter.com",
+        },
+      },
+        {
+        name: "Doodle Yggdrasil",
+        role: "Aliquip Esse",
+        img: Placeholder9,
+        socials: {
+          twitter: "https://twitter.com",
+        },
+      },
+        {
+        name: "Doodle Yggdrasil",
+        role: "Aliquip Esse",
+        img: Placeholder10,
+        socials: {
+          twitter: "https://twitter.com",
+        },
+      },
+        {
+        name: "Doodle Yggdrasil",
+        role: "Aliquip Esse",
+        img: Placeholder11,
+        socials: {
+          twitter: "https://twitter.com",
+        },
+      },
+        {
+        name: "Doodle Yggdrasil",
+        role: "Aliquip Esse",
+        img: Placeholder12,
+        socials: {
+          twitter: "https://twitter.com",
+        },
+      },
+        {
+        name: "Doodle Yggdrasil",
+        role: "Aliquip Esse",
+        img: Placeholder13,
+        socials: {
+          twitter: "https://twitter.com",
+        },
+      },
+        {
+        name: "Doodle Yggdrasil",
+        role: "Aliquip Esse",
+        img: Placeholder14,
+        socials: {
+          twitter: "https://twitter.com",
+        },
+      },
+        {
+        name: "Doodle Yggdrasil",
+        role: "Aliquip Esse",
+        img: Placeholder15,
+        socials: {
+          twitter: "https://twitter.com",
+        },
+      },
+        {
+        name: "Doodle Yggdrasil",
+        role: "Aliquip Esse",
+        img: Placeholder16,
+        socials: {
+          twitter: "https://twitter.com",
+        },
+      },
+        {
+        name: "Doodle Yggdrasil",
+        role: "Aliquip Esse",
+        img: Placeholder17,
+        socials: {
+          twitter: "https://twitter.com",
+        },
+      },
+        {
+        name: "Doodle Yggdrasil",
+        role: "Aliquip Esse",
+        img: Placeholder18,
+        socials: {
+          twitter: "https://twitter.com",
+        },
+      },
+        {
+        name: "Doodle Yggdrasil",
+        role: "Aliquip Esse",
+        img: Placeholder19,
+        socials: {
+          twitter: "https://twitter.com",
+        },
+      },
+        {
+        name: "Doodle Yggdrasil",
+        role: "Aliquip Esse",
+        img: Placeholder20,
+        socials: {
+          twitter: "https://twitter.com",
+        },
+      },
 
       
     ],
